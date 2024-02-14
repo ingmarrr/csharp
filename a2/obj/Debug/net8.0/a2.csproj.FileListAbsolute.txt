@@ -1,0 +1,14 @@
+/Users/ingmarfalk/uni/csharp/a2/bin/Debug/net8.0/a2
+/Users/ingmarfalk/uni/csharp/a2/bin/Debug/net8.0/a2.deps.json
+/Users/ingmarfalk/uni/csharp/a2/bin/Debug/net8.0/a2.runtimeconfig.json
+/Users/ingmarfalk/uni/csharp/a2/bin/Debug/net8.0/a2.dll
+/Users/ingmarfalk/uni/csharp/a2/bin/Debug/net8.0/a2.pdb
+/Users/ingmarfalk/uni/csharp/a2/obj/Debug/net8.0/a2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ingmarfalk/uni/csharp/a2/obj/Debug/net8.0/a2.AssemblyInfoInputs.cache
+/Users/ingmarfalk/uni/csharp/a2/obj/Debug/net8.0/a2.AssemblyInfo.cs
+/Users/ingmarfalk/uni/csharp/a2/obj/Debug/net8.0/a2.csproj.CoreCompileInputs.cache
+/Users/ingmarfalk/uni/csharp/a2/obj/Debug/net8.0/a2.dll
+/Users/ingmarfalk/uni/csharp/a2/obj/Debug/net8.0/refint/a2.dll
+/Users/ingmarfalk/uni/csharp/a2/obj/Debug/net8.0/a2.pdb
+/Users/ingmarfalk/uni/csharp/a2/obj/Debug/net8.0/a2.genruntimeconfig.cache
+/Users/ingmarfalk/uni/csharp/a2/obj/Debug/net8.0/ref/a2.dll
